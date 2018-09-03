@@ -3,7 +3,9 @@ A cool python script to generate valid CPF sequences following the [wikipedia gu
 
 ###### DISCLAIMER
 
+```
 This is a script made for testing purposes, i'm not responsible for any law breaks and stuff.
+```
 
 ## AUTHORSHIP
 
